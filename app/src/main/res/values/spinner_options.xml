@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string-array name="spinner_options">
+            <item>Fecha</item>
+            <item>Finalizados</item>
+            <item>En curso</item>
+            <item>Irregularidades</item>
+            <item>Todos</item>
+        </string-array>
+</resources>
